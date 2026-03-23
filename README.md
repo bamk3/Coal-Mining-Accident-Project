@@ -1,6 +1,6 @@
 This is my solution for S2 Coursework.
 
-For this run, ensure you pip install all the requirements in `requirements.txt`.
+For this run, ensure you pip install all the dependencies in `requirements.txt`.
 
 The codes are in `base.ipynb` and in the released `RJMCMC.py` for question 5 (a).
 
