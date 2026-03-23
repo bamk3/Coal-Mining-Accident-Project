@@ -1,0 +1,15 @@
+# Core Numerical & Data Processing
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Visualization & Plotting
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Bayesian Inference & MCMC
+emcee>=3.1.4
+corner>=2.2.1
+dynesty>=2.1.0
+
+
+### AND the released RJMCMC.py with my add-ons.
