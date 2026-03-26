@@ -1,9 +1,9 @@
 # README.md
 
 
-This is my submission for M2 Coursework assignments.
+This is my submission for S2 Coursework assignment.
 
-For this to run, ensure you pip install all the dependencies in `requirements.txt`.
+For this to run, please ensure you pip install all the dependencies in `requirements.txt`.
 
 The codes are in `base.ipynb` and in the released `RJMCMC.py` for question 5 (a).
 
