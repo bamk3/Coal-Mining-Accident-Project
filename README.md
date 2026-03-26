@@ -1,8 +1,9 @@
-This is my solution for S2 Coursework.
+# README.md
 
-The codes are in base.ipynb and in the released RJMCMC.py for question 5 (a).
+This is my submission for M2 Coursework assignments.
 
-The written answers can be found in written_answers.pdf and the plots in the directory figs.
+All the dependencies can be installed from the provided `pyproject.toml`.
 
+Cavendish Laboratory, University of Cambridge
 
-crsid : bamk3
+@bamk3
