@@ -1,7 +1,7 @@
 # README.md
 
 
-This is my submission for S2 Coursework assignment.
+This is a project developped during my MPhil in Data Itensive Science at the University of Cambridge.
 
 For this to run, please ensure you pip install all the dependencies in `requirements.txt`.
 
@@ -10,7 +10,7 @@ The codes are in `base.ipynb` and in the released `RJMCMC.py` for question 5 (a)
 The written answers can be found in `written_answers.pdf` and the plots in the directory `/figs`.
 
 
+Don't hesitate to reach out at bkiakisolako@gmail.com or make a pull request for improvement.
 
-Cavendish Laboratory, University of Cambridge
 
-@bamk3
+Makimona
